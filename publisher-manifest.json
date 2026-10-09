@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "c0a4b9fbf55beb6fb592c700",
+  "owner": "uccstkhy",
+  "repo": "page-4ae5caa3e1495e31c5e3a2ca",
+  "title": "TG号批发",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4ae5caa3e1495e31c5e3a2ca",
+      "a": "TG号批发",
+      "b": "",
+      "entity": "TG号批发",
+      "brand": "TG号批发",
+      "separator": "",
+      "path": "index.html",
+      "hash": "5cf677ef52df1606f9e381c55d043bbd50e5eee953bc81d00b53d86cbb1bc6dc",
+      "content": {
+        "keyword1": "TG号批发",
+        "keyword2": "",
+        "primary_entity": "TG号批发",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "TG号批发提供稳定VPN加速服务，解锁流媒体，游戏加速，支持多设备。官网下载客户端，畅享网络自由。",
+          "AI_DESCRIPTION": "TG号批发提供稳定VPN加速服务，解锁流媒体，游戏加速，支持多设备。官网下载客户端，畅享网络自由。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            line-height: 1.6;\n            color: #333;\n            background: #f8f5f2;\n            margin: 0;\n            padding: 0;\n        }\n        .container {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 20px;\n        }\n        header {\n            background: #fff;\n            padding: 1rem;\n            box-shadow: 0 2px 10px rgba(0,0,0,0.1);\n        }\n        h1 {\n            color: #ff6b6b;\n            font-size: 2.5rem;\n            text-align: center;\n        }\n        h2 {\n            color: #333;\n            border-bottom: 2px solid #ffcc99;\n            padding-bottom: 0.5rem;\n        }\n        section {\n            margin: 2rem 0;\n            background: #fff;\n            padding: 2rem;\n            border-radius: 8px;\n            box-shadow: 0 4px 15px rgba(0,0,0,0.05);\n        }\n        .plans {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));\n            gap: 1.5rem;\n        }\n        .plan {\n            background: #fff;\n            border: 2px solid #ffcc99;\n            border-radius: 8px;\n            padding: 1.5rem;\n        }\n        .plan.featured {\n            border-color: #ff6b6b;\n            position: relative;\n        }\n        .plan.featured::after {\n            content: \"推荐\";\n            position: absolute;\n            top: -10px;\n            right: 20px;\n            background: #ff6b6b;\n            color: white;\n            padding: 5px 15px;\n            border-radius: 20px;\n            font-size: 0.8rem;\n        }\n        .faq {\n            margin-top: 2rem;\n        }\n        details {\n            margin-bottom: 1rem;\n            border: 1px solid #ddd;\n            border-radius: 6px;\n            padding: 0.5rem;\n        }\n        summary {\n            font-weight: bold;\n            cursor: pointer;\n            padding: 1rem;\n            background: #fffaf0;\n            border-radius: 6px;\n        }\n        summary:hover {\n            background: #fff;\n        }\n        @media (max-width: 768px) {\n            h1 { font-size: 2rem; }\n            .plans { grid-template-columns: 1fr; }\n        }\n    </style>\n\n\n    <div class=\"container\">\n        <header>\n            <h1>TG号批发</h1>\n        </header>\n        <main>\n            <section>\n                <h2>品牌简介</h2>\n                <p>TG号批发是专业的VPN加速器品牌，专注于提供高速稳定的网络加速解决方案。通过批发TG号资源，确保线路质量可靠，支持个人和企业用户多种需求。</p>\n            </section>\n            <section>\n                <h2>使用场景</h2>\n                <ul>\n                    <li>解锁Netflix、YouTube等流媒体平台</li>\n                    <li>游戏加速与低延迟连接</li>\n                    <li>远程办公与安全传输</li>\n                    <li>多设备同时在线</li>\n                    <li>企业定制路由优化</li>\n                </ul>\n            </section>\n            <section>\n                <h2>操作说明</h2>\n                <ol>\n                    <li>选择适合的套餐</li>\n                    <li>下载官方客户端</li>\n                    <li>安装并登录账号</li>\n                    <li>选择节点进行连接</li>\n                    <li>享受极速网络加速</li>\n                </ol>\n                <p><a href=\"#download\">立即下载客户端</a></p>\n            </section>\n            <section class=\"plans\">\n                <h2>套餐选择</h2>\n                <div class=\"plan\">\n                    <h3>基础版</h3>\n                    <p>¥15/月 | 按年付仅需 ¥150/年</p>\n                    <p>每月 100GB 极速流量<br>支持 3 台设备同时在线<br>解锁基础流媒体<br>普通线路节点池</p>\n                </div>\n                <div class=\"plan featured\">\n                    <h3>旗舰版</h3>\n                    <p>¥35/月 | 按年付仅需 ¥350/年</p>\n                    <p>每月 300GB 极速流量<br>支持 5 台设备同时在线<br>全节点原生流媒体解锁<br>IPLC 专线游戏加速优化<br>7x24 优先工单支持</p>\n                </div>\n                <div class=\"plan\">\n                    <h3>团队版</h3>\n                    <p>¥85/月 | 按年付仅需 ¥850/年</p>\n                    <p>每月 1000GB 极速流量<br>支持 20 台设备同时在线<br>VIP 专属高带宽节点<br>支持企业定制路由<br>专属客户经理服务</p>\n                </div>\n            </section>\n            <section class=\"faq\">\n                <h2>常见问题</h2>\n                <details>\n                    <summary>1. TG号批发是什么？</summary>\n                    <p>TG号批发是一家专业的VPN加速器品牌，专注于提供高速稳定的网络加速解决方案。通过批发TG号资源，确保线路质量可靠，支持个人和企业用户多种需求。</p>\n                </details>\n                <details>\n                    <summary>2. 如何选择适合我的套餐？</summary>\n                    <p>根据您的使用需求选择：基础版适合轻度使用，旗舰版适合追求流畅体验的用户，团队版适合大型团队或企业用户。</p>\n                </details>\n                <details>\n                    <summary>3. 支持哪些设备和平台？</summary>\n                    <p>支持Windows、Mac、Android、iOS等多平台客户端，同时支持3-20台设备同时在线，具体以套餐为准。</p>\n                </details>\n                <details>\n                    <summary>4. 客户端如何下载？</summary>\n                    <p>您可以在官网 <a href=\"#download\">下载客户端</a>，支持多种操作系统，一键安装，简单易用。</p>\n                </details>\n                <details>\n                    <summary>5. 线路质量如何？</summary>\n                    <p>我们提供多种节点池，包括普通、IPLC专线等，确保游戏加速和流媒体解锁稳定可靠。</p>\n                </details>\n                <details>\n                    <summary>6. 有没有退款政策？</summary>\n                    <p>支持7天无理由退款，如有任何问题请联系客服。</p>\n                </details>\n            </section>\n            <section id=\"download\">\n                <h2>客户端下载</h2>\n                <p>点击下方按钮下载官方客户端：</p>\n                <a href=\"#\">下载客户端</a>\n            </section>\n        <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n        <footer>\n            <p>© 2024 TG号批发 所有权利保留</p>\n            <p>友情链接</p>\n            <p>广告位</p>\n            <p>相关VPN加速器资源</p>\n        </footer>\n    </div>\n\n",
+          "hash": "3697079c7b87dff0c80987dd775a098a854c1be2d3965cf18714c85bc5a5c150",
+          "seo": {
+            "title": "TG号批发 - VPN加速器 客户端下载 官网",
+            "keywords": "TG号批发, VPN加速器, 梯子网络加速, 加速器, 客户端下载, 官网, 机场订阅",
+            "description": "TG号批发提供稳定VPN加速服务，解锁流媒体，游戏加速，支持多设备。官网下载客户端，畅享网络自由。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lvuyzei.cn",
+    "host": "p-95beef960c.lvuyzei.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "3daa5cc7b2c16ee481f93833257fa981f891e0d33634983bd0753df6989f5f6a",
+    "sitemap.xml": "fd4a16992124e40328ebaf81983a0a86ebd9ee2d77bfdd32cb52b932c7cc062d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "def45b62e118cdb14a1ef78b6da6b4cb51156be4899d234dbbeb3bbdfe76068e",
+    "robots.txt": "b1f1763a721e1115e60058befa97ba725ef906bddf8252dc73b00fa7a4610dad",
+    "f541f6b3426b792496338d1c7e92131f.txt": "bf1d7729ae49a6e3bacb06fef725ce36711182c8f02db3153a220b74d3c1cd0f"
+  },
+  "revision": "d010bf0ee306e0d9460ab534ec8ae729de1f16d47972d85f78ef01c71a36e9b2"
+}
